@@ -8,5 +8,7 @@ Here we start with a simulation based framework that aims to bring as much param
 
 
 STEP 1: Have a torque driven multi-segment model for which we can specify anthropometry. Given a speed, find the optimal position (saddle, handlebars, pedal axles, crank length) and torque actuator coordination that minimizes effort throughout a revolution. We use a very simple model of air resistance that depends on the angle of the trunk.
+
 STEP 2: Include passive structures that impose (realistic) bounds on the attainable positions.
+
 STEP 3: ...
